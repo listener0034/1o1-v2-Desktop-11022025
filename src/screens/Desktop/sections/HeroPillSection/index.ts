@@ -1,0 +1,1 @@
+export { HeroPillSection } from "./HeroPillSection";
